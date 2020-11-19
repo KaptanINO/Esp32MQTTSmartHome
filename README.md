@@ -39,4 +39,5 @@ PIN	Durumu	  Notlar
 39	OK		  Sadece giriş sinyali
 
 (OK=Kullanılabilir/X=Kullanılamaz)
+
 .
